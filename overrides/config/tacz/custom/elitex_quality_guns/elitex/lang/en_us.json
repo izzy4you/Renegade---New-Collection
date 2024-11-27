@@ -1,0 +1,23 @@
+{
+   "pack.elitex.name": "Elite X Quality Guns",
+    "pack.elitex.desc": "The Most Advanced and Better Weapons you wont find them anywhere",
+
+  "elitex.gun.colt_m1911x1.name": "Colt M1911A1",
+
+  "elitex.gun.ak47x.name": "AK 47",
+  "elitex.gun.famas_f1.name": "French Famas F1",
+  "elitex.gun.m4_sopmod.name": "M4 Sop Mod Block II",
+  "elitex.gun.mcs_spear.name": "Sig MCX Spear",
+
+  "elitex.gun.benelli_super.name": "Benelli Super nova",
+
+  "elitex.ammo.sig_fury_ammo.name" : ".227 Sig Fury",
+
+
+  "elitex.gun.ak47x.desc" : "Say hello to Soviet Russia for inventing the iconic AKs",
+  "elitex.gun.mcs_spear.desc" : "When quality detailed is loaded, remember your PC got fried",
+  "elitex.gun.m4_sopmod.desc" : "Best , Super Customizable , uses 5.56",
+  "elitex.gun.famas_f1.desc" : "AHHHGH , French!!11 , basically famous for its fast fire rate",
+  "elitex.gun.colt_m1911x1.desc" : "Still one of the most iconic pistols uses 45acp",
+  "elitex.gun.benelli_super.desc" : "Italian Manufacturer , Benelli Semi auto Shotgun"
+}

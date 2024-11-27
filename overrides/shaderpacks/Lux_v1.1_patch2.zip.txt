@@ -1,0 +1,8 @@
+#Tue Nov 26 19:18:55 MSK 2024
+shadowDistance=128.0
+SHADOW_FILTER=false
+shadowMapResolution=1024
+VOLUMETRIC_FOG=false
+CAMERA_FOCUS_DISTANCE=50.0
+SHADOW_COLOR=false
+AO=false

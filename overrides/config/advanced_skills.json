@@ -1,0 +1,20 @@
+{
+    "skillModifier": {
+        "advanced_skills": {
+            "example": {
+                "cooldown": "20",
+                "rarity": "common"
+            }
+        }
+    },
+    "skillBlackList": {
+        "advanced_skills": [
+            "example"
+        ]
+    },
+    "defaultSkillSlots": {
+        "active": 3,
+        "generic": 1,
+        "passive": 2
+    }
+}

@@ -1,0 +1,23 @@
+{
+   "pack.elitex.name": "Senapan Elite X Quality",
+    "pack.elitex.desc": "Senapan paling modern dan terbarukan yang tidak akan kamu temui dimanapun, dibuat lebih baik dengan sedikit sentuhan",
+
+  "elitex.gun.colt_m1911x1.name": "Colt M1911A1",
+
+  "elitex.gun.ak47x.name": "AK 47",
+  "elitex.gun.famas_f1.name": "Famas F1 Prancis",
+  "elitex.gun.m4_sopmod.name": "M4 Sop Mod Block II",
+  "elitex.gun.mcs_spear.name": "Sig MCX Spear",
+
+  "elitex.gun.benelli_super.name": "Benelli Super nova",
+
+  "elitex.ammo.sig_fury_ammo.name" : "Amunisi .227 Sig Fury",
+
+  "elitex.gun.ak47x.desc" : "Katakan halo kepada Rusia Soviet karena telah menemukan AKs yang ikonik",
+  "elitex.gun.mcs_spear.desc" : "Saat detail berkualitas dimuat, ingat bahwa PC Anda menjadi panas",
+  "elitex.gun.m4_sopmod.desc" : "Terbaik, sangat dapat disesuaikan, menggunakan peluru 5.56",
+  "elitex.gun.famas_f1.desc" : "AHHHGH, Prancis!!11, terkenal karena kecepatan tembaknya yang cepat",
+  "elitex.gun.colt_m1911x1.desc" : "Masih salah satu pistol paling ikonik menggunakan peluru 45acp",
+  "elitex.gun.benelli_super.desc" : "Produsen Italia, Benelli Senapan semi otomatis"
+
+}

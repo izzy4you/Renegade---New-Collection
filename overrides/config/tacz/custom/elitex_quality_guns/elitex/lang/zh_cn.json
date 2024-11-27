@@ -1,0 +1,23 @@
+{
+   "pack.elitex.name": "精英X品质枪械",
+    "pack.elitex.desc": "最先进且质量更好的武器，你在其他地方找不到它们",
+
+  "elitex.gun.colt_m1911x1.name": "柯尔特M1911A1",
+
+  "elitex.gun.ak47x.name": "AK 47",
+  "elitex.gun.famas_f1.name": "法国法玛斯F1",
+  "elitex.gun.m4_sopmod.name": "M4 Sop Mod Block II",
+  "elitex.gun.mcs_spear.name": "西格MCX矛",
+
+  "elitex.gun.benelli_super.name": "贝内利超级新星",
+
+  "elitex.ammo.sig_fury_ammo.name" : ".227西格怒火",
+
+  "elitex.gun.ak47x.desc" : "向发明标志性AK的苏联俄罗斯问好",
+  "elitex.gun.mcs_spear.desc" : "当高质量细节加载时，记得你的电脑已经过热",
+  "elitex.gun.m4_sopmod.desc" : "最佳，超级可定制，使用5.56子弹",
+  "elitex.gun.famas_f1.desc" : "啊啊啊，法国!!11，以快速射速著称",
+  "elitex.gun.colt_m1911x1.desc" : "仍然是最具标志性的手枪之一，使用45acp",
+  "elitex.gun.benelli_super.desc" : "意大利制造商，贝内利半自动霰弹枪"
+
+}

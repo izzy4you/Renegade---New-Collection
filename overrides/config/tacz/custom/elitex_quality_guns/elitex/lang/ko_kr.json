@@ -1,0 +1,23 @@
+{
+   "pack.elitex.name": "엘리트 X 품질 총기",
+   "pack.elitex.desc": "가장 진보되고 더 나은 무기, 어디에서도 찾을 수 없습니다",
+
+   "elitex.gun.colt_m1911x1.name": "콜트 M1911A1",
+
+   "elitex.gun.ak47x.name": "AK 47",
+   "elitex.gun.famas_f1.name": "프랑스 파마스 F1",
+   "elitex.gun.m4_sopmod.name": "M4 Sop Mod Block II",
+   "elitex.gun.mcs_spear.name": "시그 MCX 스피어",
+
+   "elitex.gun.benelli_super.name": "베넬리 슈퍼노바",
+
+   "elitex.ammo.sig_fury_ammo.name" : ".227 시그 퓨리",
+
+   "elitex.gun.ak47x.desc" : "상징적인 AK를 발명한 소련 러시아에 인사를",
+   "elitex.gun.mcs_spear.desc" : "고품질 세부 사항이 로드될 때, PC가 과열된 것을 기억하세요",
+   "elitex.gun.m4_sopmod.desc" : "최고, 매우 커스터마이즈 가능, 5.56 사용",
+   "elitex.gun.famas_f1.desc" : "아아아, 프랑스!!11, 빠른 발사 속도로 유명",
+   "elitex.gun.colt_m1911x1.desc" : "여전히 가장 상징적인 권총 중 하나로 45acp를 사용",
+   "elitex.gun.benelli_super.desc" : "이탈리아 제조업체, 베넬리 반자동 샷건"
+
+}

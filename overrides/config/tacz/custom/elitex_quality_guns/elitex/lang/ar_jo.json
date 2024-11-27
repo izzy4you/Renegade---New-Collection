@@ -1,0 +1,25 @@
+{
+   "pack.elitex.name": "اسلحة اليت اكس",
+    "pack.elitex.desc": "افضل مود مسدسات واسلحة متقدم لن تجده في اي مكان اخر",
+
+  "elitex.gun.colt_m1911x1.name": "كولت م1911",
+
+  "elitex.gun.ak47x.name": "كلاشنكوف 47",
+  "elitex.gun.famas_f1.name": "فاماس ف1",
+  "elitex.gun.m4_sopmod.name": "M4 سوب مود II",
+  "elitex.gun.mcs_spear.name": "سيج م سي اكس سبير",
+
+  "elitex.gun.benelli_super.name": "بينيلي سوبر نوفاa",
+
+  "elitex.ammo.sig_fury_ammo.name" : ".227 سيج فوري",
+
+
+  "elitex.gun.ak47x.desc" : "قل مرحبًا لروسيا السوفيتية لاختراعها البنادق الأيقونية AKs",
+  "elitex.gun.mcs_spear.desc" : "عندما يتم تحميل التفاصيل عالية الجودة، تذكر أن جهاز الكمبيوتر الخاص بك قد انهار",
+  "elitex.gun.m4_sopmod.desc" : "أفضل، قابل للتخصيص بشكل كبير، يستخدم عيار 5.56",
+  "elitex.gun.famas_f1.desc" : "آآآغ، فرنسي!!11، مشهور بشكل أساسي بمعدل إطلاقه السريع",
+  "elitex.gun.colt_m1911x1.desc" : "لا يزال أحد أكثر المسدسات الأيقونية يستخدم عيار 45acp",
+  "elitex.gun.benelli_super.desc" : "شركة تصنيع إيطالية، بنيللي بندقية نصف آلية"
+
+
+}

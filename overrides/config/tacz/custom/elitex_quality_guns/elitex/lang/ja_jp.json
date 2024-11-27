@@ -1,0 +1,24 @@
+{
+   "pack.elitex.name": "エリートX品質銃",
+   "pack.elitex.desc": "最も先進的で優れた武器。どこでも見つけることはできません",
+
+   "elitex.gun.colt_m1911x1.name": "コルトM1911A1",
+
+   "elitex.gun.ak47x.name": "AK 47",
+   "elitex.gun.famas_f1.name": "フランス ファマスF1",
+   "elitex.gun.m4_sopmod.name": "M4 Sop Mod Block II",
+   "elitex.gun.mcs_spear.name": "シグMCXスピア",
+
+   "elitex.gun.benelli_super.name": "ベネリスーパーノヴァ",
+
+   "elitex.ammo.sig_fury_ammo.name" : ".227 シグフューリー",
+
+
+   "elitex.gun.ak47x.desc" : "アイコニックなAKを発明したソビエトロシアに挨拶を",
+   "elitex.gun.mcs_spear.desc" : "高品質なディテールがロードされるとき、PCが熱くなったことを忘れないでください",
+   "elitex.gun.m4_sopmod.desc" : "最高、非常にカスタマイズ可能、5.56を使用",
+   "elitex.gun.famas_f1.desc" : "アアアア、フランス!!11、速い発射速度で有名",
+   "elitex.gun.colt_m1911x1.desc" : "まだ最もアイコニックなピストルの一つで、45acpを使用",
+   "elitex.gun.benelli_super.desc" : "イタリアのメーカー、ベネリ 半自動ショットガン"
+
+}
